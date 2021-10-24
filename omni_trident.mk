@@ -21,5 +21,5 @@ $(call inherit-product, vendor/omni/config/gsm.mk)
 PRODUCT_DEVICE := trident
 PRODUCT_NAME := omni_trident
 PRODUCT_BRAND := SMARTISAN
-PRODUCT_MODEL := DE106
+PRODUCT_MODEL := trident
 PRODUCT_MANUFACTURER := smartisan
